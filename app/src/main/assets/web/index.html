@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Docscanner Web</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/script.js"></script>
+
+</head>
+<script>
+    function loadinfodoc(){
+    loadSystemInfo();
+    loadDocs();
+    }
+</script>
+<body onload="loadinfodoc()">
+<div id="spinner" hidden data-bind="visible: isSpinning" style="padding: 10px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #cccccc; z-index: 1; filter: alpha(opacity=30);">
+    <p>!!!!!!!!!!!!loading!!!!!!!!!!!1</p>
+    <i class="fa fa-spinner fa-spin fa-5x"></i>
+</div>
+
+<div class="container-fluid">
+
+    <div class="m-4">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                <a href="https://docscanner.psychocreatives.com/" class="navbar-brand">
+                    <img src="images/ic_logo.png" height="60" alt="Docscanner">
+                </a>
+            </div>
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <!-- <div class="navbar-nav">
+                        <a href="/index.html" class="nav-item nav-link active">Home</a>
+                        <a href="#" class="nav-item nav-link">Profile</a>
+                        <a href="#" class="nav-item nav-link">Messages</a>
+                        <a href="#" class="nav-item nav-link disabled" tabindex="-1">Reports</a>
+                    </div> -->
+                    <div class="navbar-nav ms-auto">
+                        <a href="https://psychocreatives.com/index.php#contact" class="nav-item nav-link">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    
+    <div class="row small-12" style="margin-top:5%">
+    <div class="text-left small-12 " style="font-size:2em">Welcome, <span id="DeviceModelName">-</span>
+    </div>
+    <div style="font-size:1.2em" class="small-6 columns">
+        <div class="row">
+            <div class="small-6 columns text-left"> Device Model: <span id="device_model">Unknown</span></div>
+        </div>
+        <div class="row">
+            <div class="small-6 columns text-left"> Total Documents: <span id="document_count">Unknown</span></div>
+        </div>
+        <div class="row">
+            <div class="small-6 columns text-left"> Total Documents Size: <span id="document_size">Unknown</span></div>
+        </div>
+    </div>
+</div>
+    <div class="small-9 columns">
+    <table class="hover" style="margin-top:0%;  ">
+        <thead>
+        <tr>
+            <th class="text-center" width="400px">Name</th>
+            <th class="text-center" width="100px">Type</th>
+            <th class="text-center" width="100px">Size</th>
+            <th class="text-center" width="250px">Modify Time</th>
+            <th class="text-center" width="100px">Download</th>
+        </tr>
+        </thead>
+        <tbody id="docs_list" style="margin-bottom:10px;">
+        <tr>
+            <td class="text-center" width="400px">placeholder_name</td>
+            <td class="text-center" width="100px">placeholder_extension</td>
+            <td class="text-center" width="100px">size</td>
+            <td class="text-center" width="250px">Date/Time</td>
+            <td class="text-center" width="100px"><i class="fa fa-download fa-large"></i>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    </div>
+    <div class="footer">
+        <p><a href="https://psychocreatives.com/">&copy; Psycho Creatives</a></p>
+    </div>
+</div>
+
+</body>
+<script>
+</script>
+</html>
+

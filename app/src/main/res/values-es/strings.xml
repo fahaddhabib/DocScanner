@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DocScanner</string>
+
+    <string name="admob_native_ad">/6499/example/native</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="academic_docs_empty">Aún no se han escaneado documentos académicos.</string>
+    <string name="all_docs_empty">Aún no se ha escaneado ningún documento.</string>
+    <string name="applying_filter">Aplicar filtro</string>
+    <string name="b_and_w">B/N</string>
+    <string name="business_card_empty">Aún no se ha escaneado ninguna tarjeta de presentación.</string>
+    <string name="camera_permission_confirmation">Esta aplicación demuestra el uso de CameraView. Para hacer eso, necesita permiso para acceder a la cámara.</string>
+    <string name="camera_permission_not_granted">La aplicación de la cámara no puede hacer nada sin el permiso de la cámara.</string>
+    <string name="cantCrop">No se puede recortar la imagen, cambiar los puntos</string>
+    <string name="done">Ahorrar</string>
+    <string name="drawer_close">Cerrar el cajón de navegación</string>
+    <string name="drawer_open">Cajón de navegación abierto</string>
+
+
+    <string name="gray">gris</string>
+    <string name="id_card_empty">Aún no se han escaneado las tarjetas de identificación.</string>
+
+    <string name="loading">Cargando</string>
+    <string name="low_memory">Memoria baja</string>
+    <string name="low_memory_message">Su teléfono tiene poca memoria, es posible que sienta algunos retrasos al editar imágenes.</string>
+
+    <string name="personal_tag_empty">Aún no se ha escaneado ninguna etiqueta personal.</string>
+    <string name="placementId">video</string>
+    <string name="please_hold_the_device_horizontally">Sostenga el dispositivo horizontalmente y haga coincidir la línea azul en la línea de encuadernación del libro</string>
+
+    <string name="scan">Próxima</string>
+    <string name="continue1">Continuar</string>
+    <string name="scanning">Exploración</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="single_id_card_txt">Haga una tarjeta de identificación de un lado con lista para imprimir.</string>
+    <string name="two_id_card_txt">Haga una tarjeta de identificación de dos lados con lista para imprimir.</string>
+    <string name="retake">Volver a tomar</string>
+
+    <string name="ocvBlack">OCV Negra</string>
+    <string name="sharpBlack">Afilada negra</string>
+    <string name="edit">Editar</string>
+    <string name="rotate">Girar</string>
+    <string name="delete">Borrar</string>
+    <string name="highlight">Destacar</string>
+    <string name="eraser">Borrador</string>
+    <string name="brightness">Brillo</string>
+    <string name="contrast">Contraste</string>
+    <string name="saturation">Saturación</string>
+    <string name="exposure">Exposición</string>
+    <string name="create">Crear</string>
+    <string name="saved_sig">Sig guardada</string>
+    <string name="createSig">Crear sig</string>
+    <string name="font">Fuente</string>
+    <string name="Opacity">Opacidad</string>
+    <string name="alignment">Alineación</string>
+    <string name="generate">Generate</string>
+    <string name="refresh">Actualizar</string>
+    <string name="exit">Salida</string>
+    <string name="purchase">Sure</string>
+    <string name="before_purchase_text">Become Our Sponsor?</string>
+    <string name="before_purchase_text2">\u002AEnjoy Ads-free</string>
+    <string name="before_purchase_text4">\u002ATechinal Support</string>
+    <string name="before_purchase_text5">\u002AUpdates \u0026 New Features</string>
+    <string name="thanking_purchase_note">Thank you for looking our backs.</string>
+    <string name="before_purchase_text3">Thank you for looking our backs.</string>
+
+    <string name="addNew">Agregar nueva</string>
+    <string name="scrap">Chatarra</string>
+    <string name="left">Izquierda</string>
+    <string name="right">Derecha</string>
+    <string name="undo">Deshacer</string>
+    <string name="redo">Rehacer</string>
+    <string name="bold">Negrita</string>
+    <string name="italic">Itálica</string>
+    <string name="subscript">Subíndice</string>
+    <string name="superscript">Sobrescrita</string>
+    <string name="strikethrough">Huelga</string>
+    <string name="underline">Subrayar</string>
+
+    <string name="redText">Texto rojo</string>
+    <string name="indent">Sangrar</string>
+    <string name="outdent">Sangrar</string>
+    <string name="leftText">Texto Izquierdo</string>
+    <string name="center">Centrar</string>
+    <string name="rightText">Texto derecho</string>
+    <string name="lineDot">Punto de línea</string>
+    <string name="number">Número</string>
+    <string name="checkMark">Marca de verificación</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="noDocumentScan">Aún no se ha escaneado ningún documento.</string>
+    <string name="cropDocument">Documento de recorte</string>
+    <string name="rotateDoc">Rotar documento</string>
+    <string name="currentFilter">Filtro actual</string>
+    <string name="editorDocument">Documento del editor</string>
+    <string name="colorFilter">Filtro de color</string>
+    <string name="adjust">Ajustar</string>
+    <string name="noSignFound">No se encontró ninguna firma …</string>
+    <string name="clear">Clara</string>
+    <string name="signature">Firma</string>
+    <string name="enterText">Enter text</string>
+    <string name="watermark">Filigrana</string>
+    <string name="text">Texto</string>
+    <string name="overlay">Cubrir</string>
+    <string name="colorEffect">Efecto de color</string>
+    <string name="idCard">Tarjeta de identificación</string>
+    <string name="imageToText">Imagen a texto</string>
+
+    <string name="qrCodeType">Tipo de código QR</string>
+    <string name="savedDocument">Documento guardado</string>
+    <string name="scanner">Escáner</string>
+    <string name="document">Documento</string>
+    <string name="book">Libro</string>
+    <string name="photo">Foto</string>
+    <string name="search">Buscar</string>
+    <string name="share">Cuota</string>
+    <string name="qrReader">Lector de QR</string>
+    <string name="qrCodeResult">Resultado del código QR</string>
+    <string name="areUSure">Estas segura</string>
+    <string name="deleteThisDoc">quieres eliminar este documento?</string>
+    <string name="saveChanges">Guardar cambios?</string>
+    <string name="changesBeLost">Se perderán los cambios que no haya guardado.</string>
+    <string name="saveChangesBeforeLost">Guardar cambios antes de cerrar?</string>
+    <string name="sendToMail">Enviar a correo</string>
+    <string name="enterEmailId">Ingrese el ID de correo electrónico</string>
+    <string name="cancel">Cancelar</string>
+    <string name="saveAsPdf">Guardar como pdf</string>
+    <string name="rename">Rebautizar</string>
+    <string name="saveToGallery">Guardar en la galería</string>
+    <string name="inputText">Texto de entrada</string>
+    <string name="savePdfWithPass">Guardar PDF con contraseña</string>
+    <string name="enterPdfName">Ingrese el nombre del PDF</string>
+    <string name="setPdfPass">Establecer contraseña de PDF</string>
+    <string name="enterPassword">Introducir la contraseña</string>
+    <string name="confirmPass">confirmar Contraseña</string>
+    <string name="saveAsImage">Compartir como imagen</string>
+    <string name="shareAsPdf">Compartir como PDF</string>
+    <string name="sharePdfPass">Compartir PDF con contraseña</string>
+    <string name="setDocumentName">Establecer nombre de documento</string>
+    <string name="enterDocumentName">Ingrese el nombre del documento</string>
+    <string name="importFromGallery">Importar de la galería</string>
+    <string name="sortBy">Ordenar por</string>
+    <string name="shareAll">Compartir todo</string>
+    <string name="viewMode">Modo de vista</string>
+
+    <string name="list">Lista</string>
+
+    <string name="contents_contact">Datos de contacto</string>
+    <string name="contents_email">Dirección de correo electrónico</string>
+    <string name="contents_location">Coordenadas geográficas</string>
+    <string name="contents_phone">Número de teléfono</string>
+    <string name="contents_sms">Dirección de SMS</string>
+    <string name="contents_text">Texto sin formato</string>
+    <string name="createNewFolder">Crear nueva carpeta</string>
+    <string name="enterFolderName">Nombre de la carpeta</string>
+    <string name="noDocumentFound">No se encontraron documentos</string>
+    <string name="move">Moverse</string>
+    <string name="moveFolder">Mover a</string>
+
+    <string name="PURCHASE_NO_AD">purchase_no_ad</string>
+    <string name="license_key"></string>
+
+    <string name="darkTheme">Tema oscuro</string>
+    <string name="todo">TODO</string>
+
+    <string name="change_language">Cambiar idioma</string>
+    <string name="english">Inglesa</string>
+    <string name="spanish">Española</string>
+    <string name="german">alemana</string>
+
+
+    <string name="all">Todos Documentos</string>
+    <string name="business_card">Negocio Tarjeta</string>
+    <string name="id_card">Tarjeta De Identificación</string>
+    <string name="academic_docs">Académicos Documentos</string>
+    <string name="personal_tag">Etiqueta Personal</string>
+    <string name="my_documents">Mis Documentos</string>
+    <string name="share_app">Compartir Aplicación</string>
+    <string name="rate_us">Nos califica</string>
+    <string name="move_successfully">Mover con éxito</string>
+    <string name="select_a_folder">Seleccione al menos una carpeta</string>
+    <string name="folder_name_req">The folder name is required</string>
+
+    <string name="note">Nota</string>
+    <string name="enter_your_text">Ingrese su texto</string>
+    <string name="enter_your_email">Introduce tu correo electrónico</string>
+    <string name="enter_your_phone">Ingresa tu teléfono</string>
+    <string name="enter_your_sms">Ingresa tu sms</string>
+    <string name="enter_your_url_key">Ingrese su clave de URL</string>
+    <string name="email">Correo electrónico</string>
+    <string name="phone">Teléfono</string>
+    <string name="sms">SMS</string>
+    <string name="url_key">Clave de URL</string>
+    <string name="check_out_my_app">"Hey, mira mi aplicación en: "</string>
+    <string name="gallery">Galería</string>
+    <string name="search_for_document">Documento de búsqueda…</string>
+    <string name="tapToAddNew">Toque para agregar nueva</string>
+    <string name="open_pdf">Abrir pdf</string>
+    <string name="name">Nombre</string>
+    <string name="image_to_text">Imagen a texto</string>
+    <string name="valid_doc">Ingrese un nombre de documento válido!</string>
+    <string name="purchase_text">Tu compra fue exitosa!</string>
+    <string name="grid">Grid</string>
+    <string name="qrGenerator">Generar QR</string>
+    <string name="size">Tamaño</string>
+    <string name="headline1">Titular1</string>
+    <string name="headline2">Titular2</string>
+    <string name="headline3">Titular3</string>
+    <string name="headline4">Titular4</string>
+    <string name="headline5">Titular5</string>
+    <string name="headline6">Titular6</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="verticle">Vertical</string>
+    <string name="color">Color</string>
+    <string name="ok">okey</string>
+    <string name="original">Original</string>
+    <string name="auto">Auto</string>
+
+    <string name="no_Text_found">No se encontró texto…</string>
+    <string name="document_name_already_exist">El nombre del documento ya existe</string>
+    <string name="please_enter_password">Por favor, ingrese contraseña</string>
+    <string name="password_confirm">CDATA[Tu contraseña y Confirmar contraseña no coinciden</string>
+    <string name="image_dont_close">la imagen no se cierra</string>
+    <string name="please_enter_text">Por favor ingrese el texto</string>
+    <string name="invalid_email_address">Dirección de correo electrónico inválida</string>
+    <string name="save_successfully">Guardar con éxito</string>
+    <string name="text_copied_to_clipboard">Texto copiado al portapapeles</string>
+    <string name="share_text_using">Compartir texto usando</string>
+    <string name="unable_to_find_market_app">no puedo encontrar la aplicación de mercado</string>
+    <string name="two_side_ID_card">Seleccionó una tarjeta de identificación de dos caras, complete el proceso.</string>
+    <string name="error">error</string>
+    <string name="picture_taken">Foto tomada</string>
+    <string name="note_saved">Nota guardada</string>
+    <string name="remove_ads">Quitar anuncios</string>
+    <string name="noti_content">Share docs</string>
+</resources>

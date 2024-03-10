@@ -1,0 +1,5 @@
+include ':sticker'
+include ':scanlibrary'
+include ':iap'
+include ':app'
+rootProject.name = "DocScanner"
