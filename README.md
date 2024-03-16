@@ -1,46 +1,52 @@
-DocScanner: Your All-in-One Document Scanning App
+DocScanner
 
-DocScanner is a powerful mobile application that simplifies document management and QR code generation. With its user-friendly interface and advanced features, DocScanner helps you scan, organize, and share various documents on the go.
+DocScanner is a document scanning application designed to streamline the process of digitizing documents on your Android device. With DocScanner, you can easily scan, organize, and manage your documents with just a few taps.
+Features
 
-Key Features:
+    Scan Documents: Effortlessly scan documents using your device's camera.
+    PDF Conversion: Convert scanned documents into PDF format for easy sharing and storage.
+    Document Organization: Organize scanned documents into custom folders for easy access.
+    Text Recognition: Utilize optical character recognition (OCR) to extract text from scanned images.
+    Share and Export: Share scanned documents via email, messaging apps, or cloud storage services.
+    Customizable Settings: Customize scanning settings to optimize quality and file size.
 
-    Variety of Scanning Options:
-        Scan business cards, ID cards, academic documents, and any personal documents.
-        Auto-detect document edges for accurate capture.
-        Capture high-quality scans with enhanced clarity.
-    Intelligent Tagging:
-        Create custom tags for easy document categorization.
-        Organize scanned documents efficiently for quick retrieval.
-    QR Code Generation:
-        Effortlessly generate QR codes from text, URLs, contacts, and more.
-        Share generated QR codes seamlessly.
-    Efficient Document Management:
-        View, edit, and rename scanned documents within the app.
-        Share documents via email, messaging apps, or cloud storage services.
+## Screenshots
 
-Benefits:
+![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss1.png)
+![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss2.png)
+![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss3.png)
+![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss4.png)
+![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss5.png)
+![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss6.png)
 
-    Increased Productivity: Scan and organize documents instantly, eliminating the need for bulky scanners.
-    Improved Organization: Keep your documents categorized and easily accessible with custom tags.
-    Enhanced Security: Generate secure QR codes to share data conveniently.
-    Versatility: Scan various documents and generate QR codes for multiple purposes.
+## Demo
 
-Getting Started:
+![Demo](https://github.com/fahaddhabib/DocScanner/blob/master/assets/gif.gif)
 
-    Download and install DocScanner from the App Store: [invalid URL removed] (for iOS) or Google Play Store: [invalid URL removed] (for Android).
-    Launch the app and grant necessary permissions (camera access, storage).
-    Choose the scanning option you need (business card, ID card, etc.) or select the QR code generation feature.
-    Follow the on-screen instructions to capture a clear image of the document or enter the data for QR code generation.
-    Review and edit the scanned document or generated QR code if needed.
-    Save, share, or tag your scanned documents or generated QR codes for future reference.
+## Banner
 
-DocScanner is the perfect tool for anyone who needs to manage documents and QR codes effectively. Download it today and experience the benefits of mobile document scanning and QR code generation!
+![Banner](https://github.com/fahaddhabib/DocScanner/blob/master/assets/banner.png)
 
-Additional Notes:
+Technologies Used
 
-    Consider adding screenshots showcasing the app's interface and key features.
-    If your app has specific requirements (e.g., supported file formats, device compatibility), include them here.
-    Mention any privacy policy or terms of use for user awareness.
-    Provide contact information for feedback or bug reports (optional).
+    Java: The application is developed using Java programming language.
+    Android SDK: Android Software Development Kit is used for building Android applications.
+    Camera API: Utilizes Android Camera API for capturing document images.
+    PDF Conversion Library: Integrates a PDF conversion library for generating PDF documents.
+    OCR Library: Incorporates an OCR library for text recognition from scanned images.
 
-By incorporating these elements, you'll create a comprehensive and informative README file that effectively introduces DocScanner to potential users.
+Installation
+
+To install the application, download the APK file from the releases section and install it on your Android device.
+Usage
+
+    Launch the DocScanner application on your Android device.
+    Position the camera over the document you want to scan.
+    Tap the capture button to take a picture of the document.
+    Adjust cropping and apply filters if necessary.
+    Save the scanned document or convert it to PDF.
+    Organize and manage scanned documents within the application.
+
+Feedback
+
+If you have any feedback, suggestions, or issues, please feel free to contact us. Your input is valuable to us as we continue to improve the DocScanner application.
