@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name" translatable="false">DocScanner</string>
 
-    <string name="admob_native_ad" translatable="false">ca-app-pub-4141394549748693/2163716720</string>
-    <string name="admob_app_id" translatable="false">ca-app-pub-4141394549748693~4191114265</string>
-    <string name="admob_banner_id" translatable="false">ca-app-pub-4141394549748693/7440094138</string>
-    <string name="admob_interstitial_id" translatable="false">ca-app-pub-4141394549748693/3141772388</string>
+    <string name="admob_native_ad" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/9214589741</string>
+    <string name="admob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
 
     <string name="academic_docs_empty">No Academic Docs Scanned Yet.</string>
     <string name="all_docs_empty">No Document Scanned Yet.</string>
