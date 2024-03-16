@@ -16,12 +16,15 @@ Features
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss1.png)
-![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss2.png)
-![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss3.png)
-![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss4.png)
-![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss5.png)
-![Screenshot 1](https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss6.png)
+<p float="left">
+  <img src="https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss1.png" width="200" />
+  <img src="https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss2.png" width="200" />
+  <img src="https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss3.png" width="200" />
+  <img src="https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss4.png" width="200" />
+  <img src="https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss5.png" width="200" />
+  <img src="https://github.com/fahaddhabib/DocScanner/blob/master/assets/ss6.png" width="200" />
+</p>
+
 
 ## Demo
 
