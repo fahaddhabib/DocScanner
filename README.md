@@ -1,7 +1,5 @@
 DocScanner
 
-## Banner
-
 ![Banner](https://github.com/fahaddhabib/DocScanner/blob/master/assets/banner.png)
 
 DocScanner is a document scanning application designed to streamline the process of digitizing documents on your Android device. With DocScanner, you can easily scan, organize, and manage your documents with just a few taps.
